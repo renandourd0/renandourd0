@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hi, meu nome é  
-    <a href="https://www.instagram.com/renan_dourad0/?next=%2F"> Renan Dourado :) </a>
+    <a href="https://www.instagram.com/renan_dourad0/?next=%2F"> SecDet :) </a>
   </h1>
   
   <p align="center">
