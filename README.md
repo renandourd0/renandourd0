@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Hi, meu nome é  
-    <a href="https://www.instagram.com/renan_dourad0/?next=%2F"> SecDet :) </a>
+    Olá meu nome é   
+    <a href="https://www.instagram.com/renan_dourad0/?next=%2F"> Crypt0n:) </a>
   </h1>
   
   <p align="center">
@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-      Já curte ai meus scripts e vem coda comigo ksksk 'Let's Go'
+      GIT MAL'
   </p>
   
 </div>
@@ -49,6 +49,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p> d1243qdujq0ww8d2.onion </p>
   <p>Créditos: <a https://github.com/renandourd0">Renan_dourad0</a></p>
 </div>
