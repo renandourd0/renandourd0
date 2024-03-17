@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-      GIT MAL'
+      Já vem conhecer meus Scripts e minhas automações :)
   </p>
   
 </div>
