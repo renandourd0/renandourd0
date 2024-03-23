@@ -30,7 +30,7 @@ I am looking to increasingly improve my Codes and Scripts to always bring the cu
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanDourado&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
