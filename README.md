@@ -1,16 +1,16 @@
 <div>
   
   <h1 align="center">
-    Olá meu nome é   
-    <a href="https://www.instagram.com/renan_dourad0/?next=%2F"> Crypt0n:) </a>
+    HELLO WORLD  :)
+    <a href="https://www.instagram.com/renan_dourad0/?next=%2F"> Renan Dourado </a>
   </h1>
   
   <p align="center">
-    Sou Estudante de Segurança da Informação e Estudo Programação e faço uns scripts bem legais.  
+    Sou Estudante de Cyber Security & Programação e Automação  
   </p>
   
   <p align="center">
-      Já vem conhecer meus Scripts e minhas automações :)
+      Conhecimento é o caminho para a Liberdade
   </p>
   
 </div>
