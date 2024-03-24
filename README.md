@@ -20,7 +20,7 @@ Procuro aprimorar cada vez mais meus Códigos e Scripts para trazer sempre os re
 
   - 💬Tenho 20 anos e atualmente moro no Brasil, possuo conhecimento na área de Hardware e Software. Estudo Banco de Dados Mysql, faço aplicações Web entre outras como scripts e bots automatizados, segurança cibernética, servidores e redes de computadores.
 
-  - ⚡ Gosto de ler, seja um bom livro, hacking ou ficção científica, além de assistir filmes e brincar muito! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡ Gosto de ler, seja um bom livro, hacking ou ficção científica, além de assistir filmes e jogar muito! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
