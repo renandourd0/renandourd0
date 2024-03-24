@@ -6,21 +6,21 @@
 
 <!-- Presentation -->
 <p>
-  Hello 👋, my name is Renan! Passionate about Information Security, Automation and Cybersecurity
+  Olá 👋, meu nome é Renan! Apaixonado por Segurança da Informação, Automação e Cibersegurança
 
-  - 🌱 I'm currently studying Systems, Back-end and Front-end Programming, Networks and Data <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 👾 Atualmente estou estudando Sistemas, Programação Back-end e Front-end, Redes e Dados <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭
-I am looking to increasingly improve my Codes and Scripts to always bring the current results of the languages.
+Procuro aprimorar cada vez mais meus Códigos e Scripts para trazer sempre os resultados atuais das linguagens.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👾Mais sobre mim</summary>
 
-  - 💬I am 20 years old and currently live in Brazil, I have knowledge in the area of ​​Hardware and Software. I study Mysql Database, I make Web applications among others such as scripts and automated bots, cyber security, servers and computer networks.
+  - 💬Tenho 20 anos e atualmente moro no Brasil, possuo conhecimento na área de Hardware e Software. Estudo Banco de Dados Mysql, faço aplicações Web entre outras como scripts e bots automatizados, segurança cibernética, servidores e redes de computadores.
 
-  - ⚡ I like reading, whether it's a good book, hacking or science fiction, as well as watching movies and playing a lot! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
+  - ⚡ Gosto de ler, seja um bom livro, hacking ou ficção científica, além de assistir filmes e brincar muito! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
