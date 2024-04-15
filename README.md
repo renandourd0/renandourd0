@@ -8,7 +8,7 @@
 <p>
   Olá 👾, meu nome é Renan! Apaixonado por Segurança da Informação, Automação e Cibersegurança
 
-  - 👾 Atualmente estou estudando Sistemas, Programação Back-end e Front-end, Redes e Dados <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 👾 Atualmente estou estudando Sistemas de Informação Bacharel, Programação Back-end e Front-end, Redes e Dados <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭
 Procuro aprimorar cada vez mais meus Códigos e Scripts para trazer sempre os resultados atuais das linguagens.
